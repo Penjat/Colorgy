@@ -1,0 +1,20 @@
+Diamond Nova
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,3,3,3,3,3,0,0
+0,0,0,3,3,3,3,0,0,0
+0,0,0,0,3,3,3,0,0,0
+0,0,0,0,3,3,0,0,0,0
+0,0,0,0,0,3,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+diamondNova:0
+nova:4
+none:7
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>diamond-novas</color> add color

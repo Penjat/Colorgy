@@ -1,0 +1,20 @@
+0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,1,1,0,0,0,0
+0,0,0,1,0,1,0,0,0,0
+0,0,0,0,1,1,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+vortex:0
+sphere:5
+none:0
+none:0
+none:0
+none:0
+modulate:true
+shuffle:false
+tutorialText:the <color=#ffffffff>vortex</color> flips a color to its opposite

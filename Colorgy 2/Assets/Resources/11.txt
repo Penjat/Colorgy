@@ -1,0 +1,20 @@
+rainbow vortex
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,3,3,4,6,1,1,0,0
+0,3,3,4,6,6,1,1,0,0
+0,0,3,3,4,6,1,1,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+nova:2
+nova:0
+vortex:8
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:the rainbow vortex changes anything it touches

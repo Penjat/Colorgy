@@ -1,0 +1,20 @@
+diamondBeam
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,1,1,1,1,1,1,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+beam:4
+diamondBeam:2
+none:7
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>diamond-beams</color> add color

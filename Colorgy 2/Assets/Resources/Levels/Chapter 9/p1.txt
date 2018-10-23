@@ -1,0 +1,20 @@
+p1
+0,0,0,0,0,0,0,0,0,0
+0,0,0,6,6,2,2,0,0,0
+0,0,6,0,0,0,2,0,0,0
+0,0,3,0,0,0,0,4,0,0
+0,3,0,0,0,0,0,4,0,0
+0,0,5,5,5,1,1,1,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+pyramid:6
+none:0
+none:0
+none:0
+none:0
+none:0
+modulate:true
+shuffle:false
+tutorialText:the <color=#ffffffff>pyramid</color> can move to any adjacent color

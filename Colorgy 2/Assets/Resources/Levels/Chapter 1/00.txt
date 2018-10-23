@@ -1,0 +1,20 @@
+first nova
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,2,2,0,0,0,0
+0,0,0,2,2,2,0,0,0,0
+0,0,0,0,2,2,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+nova:1
+none:0
+none:0
+none:0
+none:0
+none:0
+modulate:true
+shuffle:false
+tutorialText:the <color=#ffffffff>nova</color> clears hexes of the same color

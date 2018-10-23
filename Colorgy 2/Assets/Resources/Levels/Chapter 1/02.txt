@@ -1,0 +1,21 @@
+White Novas
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,2,2,4,0,0,0
+0,0,0,2,2,2,4,4,0,0
+0,0,0,2,2,2,4,4,4,0
+0,0,1,1,1,4,4,4,0,0
+0,0,0,1,1,1,4,0,0,0
+0,0,0,1,1,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+nova:6
+nova:6
+nova:6
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>white novas</color> clear whatever color they are placed on
+

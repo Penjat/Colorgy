@@ -1,0 +1,20 @@
+cube and diamond1
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,4,4,0,0,0,0,0
+0,0,4,4,4,0,0,0,0,0
+0,0,0,4,4,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+sphere:5
+cube:0
+diamond:2
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:the <color=#ffffffff>cube</color> absorbs color and the <color=#ffffffff>diamond</color> adds it

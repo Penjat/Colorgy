@@ -1,0 +1,20 @@
+whiteDiamond
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,2,2,2,2,2,0,0
+0,0,0,0,1,0,0,0,0,0
+0,0,0,0,1,0,0,0,0,0
+0,0,0,0,0,1,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+beam:3
+beam:1
+diamondBeam:6
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>white diamond-beams</color> add the color they are placed on (red, yellow, or blue)

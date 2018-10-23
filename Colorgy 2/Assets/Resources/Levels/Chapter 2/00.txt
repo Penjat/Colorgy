@@ -1,0 +1,20 @@
+Cube Nova
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,4,4,4,0,0,0
+0,0,0,0,4,4,4,4,0,0
+0,0,0,4,4,0,4,4,0,0
+0,0,0,0,4,4,4,4,0,0
+0,0,0,0,4,4,4,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+cubeNova:1
+nova:0
+none:0
+none:0
+none:0
+none:0
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>cube-novas</color> absorb color

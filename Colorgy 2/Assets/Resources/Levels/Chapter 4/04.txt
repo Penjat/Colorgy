@@ -1,0 +1,20 @@
+cube beam white
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,1,1,5,5,5,5,3,3,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+cubeBeam:6
+cubeBeam:6
+none:7
+none:7
+none:7
+none:7
+modulate:true
+shuffle:false
+tutorialText:<color=#ffffffff>white cube-beams</color> absorb the color they are placed on(red,yellow,blue)
